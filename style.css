@@ -44,3 +44,13 @@ input{
     background: transparent;
     padding: 10px;
 }
+button{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: #71ffcd;
+    color: #000;
+    font-size: 16px;
+    border-radius: 40px;
+    cursor: pointer;
+}
