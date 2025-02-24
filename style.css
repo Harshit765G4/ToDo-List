@@ -80,7 +80,7 @@ ul li.checked{
     text-decoration: line-through;
 }
 ul li.checked::before{
-    background-image: url(images/checked.png);
+    background-image: url(https://github.com/Harshit765G4/ToDo-List/blob/c8664f4fc609664338c02220882e09b0cb668423/images/checked.png);
 }
 ul li span{
     position: absolute;
